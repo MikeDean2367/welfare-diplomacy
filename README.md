@@ -277,7 +277,7 @@ choco install nvm
 
 # Install Node (must be <=v16)
 nvm install 16
-nm use 16
+nvm use 16
 
 # Clone repo
 git clone https://github.com/diplomacy/diplomacy.git
